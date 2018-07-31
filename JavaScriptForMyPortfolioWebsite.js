@@ -1,6 +1,3 @@
-function windowAlert() {
-  alert("Javascript is connected!");
-}
 
 /* For top navigational menue: */
 function openPage(pageName, elmnt, color) {
